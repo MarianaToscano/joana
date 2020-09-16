@@ -1,0 +1,2 @@
+class BirthChart < ApplicationRecord
+end
